@@ -13,14 +13,14 @@ Listausta:
 - *Italic*
 - ~~Strikethrough~~
 
-## Testausta 2 :+1:
+## Testausta 2
 
-Flow chart:
+Koodi blokki:
 
-```mermaid
-graph TD;
-    A-->B;
-    B-->C;
-    C-->D;
-    D-->A;
 ```
+git status
+git add
+git commit
+```
+
+[Linkki tälle sivulle](https://samitapalinen.github.io/)
